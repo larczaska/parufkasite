@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0311bBe567acaC301dB8e7739665Ccc3Abf27df3",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x0311bbe567acac301db8e7739665ccc3abf27df3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Parufka",
+  "SYMBOL": "PARFD",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/parufka",
+  "SHOW_BACKGROUND": true
+}
